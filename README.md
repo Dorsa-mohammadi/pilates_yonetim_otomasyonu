@@ -242,6 +242,20 @@ Her kullanıcı yalnızca kendi yetkisine ait alanlara erişebilir.
 
 
 
+
+### 📨 Mesajlaşma (Yönetici ↔ Üye)
+![Yönetici Mesajlaşma](screenshots/UyelereMesajGonder.PNG)
+
+- Yönetici, üyelerle birebir veya toplu mesajlaşabilir
+- Üyelerden gelen mesajları görüntüler
+- Aynı anda birden fazla üyeye mesaj gönderebilir
+
+
+
+---
+
+
+
 ### 📅 Randevu Yönetimi
 ![Randevu Yönetimi](screenshots/AdminRandevuTalepleri.PNG)
 
