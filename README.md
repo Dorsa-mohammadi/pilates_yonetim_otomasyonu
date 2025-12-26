@@ -230,6 +230,8 @@ Her kullanıcı yalnızca kendi yetkisine ait alanlara erişebilir.
 ### 📆 Ders Programı Yönetimi
 ![Ders Programı](screenshots/AdminDersProgrami.PNG)
 
+![Ders Programı 1](screenshots/AdminDersProgrami1.PNG)
+
 - Ders programı düzenleme
 - Değişiklikler üyelere otomatik yansır
 
