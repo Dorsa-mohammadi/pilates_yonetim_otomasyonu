@@ -291,6 +291,16 @@ Her kullanıcı yalnızca kendi yetkisine ait alanlara erişebilir.
 
 - Yönetici panelinde, kayıtlı tüm üyelerin bilgilerini görebilir ve yönetebilir
 - Mevcut üyelerin bilgilerini güncelleyebilir  
+- Yeni üye ekleyebilir
+
+![Üye Yönetimi](screenshots/AdminUyeEkle.PNG)
+
+**Yeni üye ekleme süreci:**
+1. Yönetici panelinden üye eklenir.
+2. Eklenen üyenin e-posta adresine şifre oluşturması için bir mail gönderilir.
+3. Üye maildeki link üzerinden şifresini belirler ve sisteme giriş yapabilir.
+
+Bu yapı, üyelerin sisteme güvenli ve kontrollü bir şekilde dahil olmasını sağlar.
 
 
 
